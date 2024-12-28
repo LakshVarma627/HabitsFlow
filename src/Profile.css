@@ -1,0 +1,22 @@
+.profile-page {
+  padding: 20px;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.profile-page h1 {
+  color: #1a73e8;
+  margin-bottom: 20px;
+}
+
+.profile-info {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-info p {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
